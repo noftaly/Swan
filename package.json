@@ -36,7 +36,7 @@
     "erlpack": "^0.1.3",
     "ffmpeg-static": "^2.7.0",
     "he": "^1.2.0",
-    "mathjs": "^6.6.4",
+    "mathjs": "^7.5.1",
     "nedb-promises": "^4.0.1",
     "rss-parser": "^3.7.6",
     "sanitize-html": "^1.23.0",
